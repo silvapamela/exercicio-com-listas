@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-image:linear-gradient(to right, #b7b4b8, #c9c3ca, #e6e3e7);
+}
+
+
+h1 {
+    font-size: 3rem;
+    line-height: .5rem;
+    text-align: center;
+    background-color: #652472;
+    padding: 18px;
+    color: #D9CCC1;
+}
+
+h2 {
+    font-size: 1.5rem;
+    padding: 1px;
+    color: #652472;
+}
+
+.romanos {
+    list-style-type: upper-roman;
+}
+
+
+.cafe {
+    list-style-type: "\2615";
+}
+
+.cerveja {
+    list-style-type: "\1F37B";
+}
+.sorrindo {
+    list-style-type: "\1F60A";
+}
+
+.chocada {
+    list-style-type: "\1F631";
+}
+
+.rindo {
+    list-style-type: "\1F923";
+}
+
+
+.pare {
+    list-style-image: url(imagens/pare.png);
+}
+.maodupla {
+    list-style-image: url(imagens/mao_dupla.png);
+}
+
+.rotatoria {
+    list-style-image: url(imagens/rotatoria.png);
+}
+
+.passagem_obrigatoria {
+    list-style-image: url(imagens/passagem_obrigatoria.png);
+}
+
+.ruasemsaida{
+    list-style-image: url(imagens/rua_sem_saida.png);
+}
+
+
+a:link {
+    text-decoration: none;
+    color: #000027;
+}
+
+
+a:visited {
+    text-decoration: none;
+    color: #000027;
+}
+
+
+hr {
+    margin: auto;
+    align-items: center;
+    text-align: center;
+}
+
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding: 1px;
+    text-align: center;
+    background-color: #652472;
+    color: #D9CCC1;
+}
